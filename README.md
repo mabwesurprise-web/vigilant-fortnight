@@ -1,2 +1,2 @@
 # vigilant-fortnight
-Application development and web-development 
+financial inclusion project:microfinance app for emerging markets 
